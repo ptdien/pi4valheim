@@ -34,7 +34,7 @@ If you use podman:
 
 If you use docker:
 
-    docker build --no-cache --tag valheim-base -f Valheim.dockerfile .
+    docker build --no-cache --tag valheim-base -f valheim.Dockerfile .
         
 ## Execute the container
 
